@@ -168,7 +168,7 @@ CS Coursework Includes: Programming Fundamentals, Abstract Data Structures, Algo
 FDM Production Coursework Includes: Film Production Studio, Darkroom Photography, Social Documentation, Documentary Production, Screenwriting, Editing, Digital Media Production, Sound Production for Film, Experimental Film Production, Film & Digital Media Theory Theory 
 
 #### UC Berkeley Extension - React Coding Boot Camp ####
-8 
+
 #### Cisco Certified Network Associate (CCNA) - 2000
 
 #### The Internet - Self-taught coder/hacker since age 12 - 1993 (When the Internet was good.)
