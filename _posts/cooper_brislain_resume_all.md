@@ -3,7 +3,7 @@
 #### CBRISLAIN@GMAIL.COM 
 #### LINKEDIN.COM/IN/COOPERBRISLAIN
 #### Reno, NV / Bay Area, CA
-#### Polymathic software engineer and visual artist seeking opportunity to contibute interdisciplinary talents to innovative projects in emerging fields, including augmented reality, virtual reality, novel user interface design, interactive media production, and live event visual production.
+#### Polymathic software engineer and creative technologist seeking opportunity to contibute interdisciplinary talents to innovative projects in emerging fields, including augmented reality, virtual reality, novel user interface design, interactive media production, and live event visual production.
 
 TECHNICAL SKILLS
 ----------------
@@ -35,6 +35,21 @@ UI insight derived from significant experience with using and implementing novel
 EXPERIENCE
 ----------
 
+#### WEB DEVELOPER, FREELANCE; RENO, NV
+* PHP/MySQL/Wordpress
+* Worked mostly on Wordpress sites.
+* Migrations
+* Created "Vandelay", a tool for migrating arbitrarily structured
+    external data into Wordpress. 
+
+#### LABORER, EVENT MASTERS; TRUCKEE, CA
+* Set up and strike for events.
+* Loading and unloading box trucks with equipment.
+* Driving box trucks and delivery vans to remote event locations.
+* Lifting over 50 pounds all day.
+* Repairing and cleaning equipment.
+* Supervising colleagues on-site.
+
 #### LIVE VISUAL ARTIST; SAN FRANCISCO BAY AREA ####
 * Unity/GLSL/Quartz Composer/Flash/Javascript/OpenGL/Processing
 * Arkaos GrandVJ/Projector Mapping/Photoshop/Illustrator/Premier/Final Cut Pro
@@ -46,6 +61,13 @@ EXPERIENCE
 * Coordinated and collaborated with lighting engineers, visual artists, recording artists, stage designers, performing artists, and other creative contributors to produce a cohesive experience for attendees
 * Managed projection for stages and coordinated visual artists at festivals
 * Performed live visual performances to accompany artists including Datsik, Vibesquad, Mary-Anne Hobbes, Minnesota, G-Jones and more; as well as production companies including Camp Question Mark, Raindance Presents, Opulent Temple, MalLabel Music, Wormhole, Organic Events and Primal Productions
+
+#### EVENT CREW, VARIOUS; SAN FRANCISCO BAY AREA ####
+* Set up and strike for live events.
+* Loaded/Unloaded box trucks. 
+* Set up lighting fixtures and A/V equipment, observing safety precautions.
+* Built set pieces.
+* Coiled cables over/under.
 
 #### PROGRAMMER/CONSULTANT, VISIONS IN EDUCATION; CARMICHAEL, CA - JULY 2015-AUGUST 2016
 * HTML5/SCSS/Javascript/Angular/PHP/Python/MySQL/Drupal/Wordpress/Illustrator/InDesign
@@ -68,7 +90,7 @@ EXPERIENCE
 * Debugged issues and improved solutions for Launchpad Student Information System
 * Assisted with finalizing and deploying The Wire information website
                                 
-#### LEAD DEVELOPER, TAYLOR ONLINE MARKETING; SANTA CRUZ, CA - 2010-PRESENT
+#### DEVELOPMENT LEAD, TAYLOR ONLINE MARKETING; SANTA CRUZ, CA - 2010-PRESENT
 * HTML5/CSS3/Javascript/JQuery/PHP/MySQL/Joomla/Wordpress/Photoshop
 * Developed and managed front/back-end solutions including database engine, APIs, data validation, and data-routing deployed across 500+ websites and affiliates
          
@@ -76,7 +98,7 @@ EXPERIENCE
 * Flash/C#/.NET/PHP
 * Developed Language Survival Kit online courses for military personnel being deployed overseas
 
-#### ENGINEER, DESIGN REACTOR; CAMPBELL, CA - 2008 
+#### ASSOCIATE ENGINEER, DESIGN REACTOR; CAMPBELL, CA - 2008 
 * HTML/CSS3/Flash/Expression Engine/Javascript/JQuery/PHP/Photoshop
 * Created CMS-driven Flash website for Disney Parks 2008 campaign
 * Created CMS-driven interactive Flash portfolio for Design Reactor’s website
