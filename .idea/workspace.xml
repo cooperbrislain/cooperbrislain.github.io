@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be768cc1-ebc7-474c-8389-cdea259a283f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hTkpNmEDZrSTvpEkVb7s7PpTQh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be768cc1-ebc7-474c-8389-cdea259a283f" name="Default Changelist" comment="" />
+      <created>1600042652161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600042652161</updated>
+      <workItem from="1600042653235" duration="1502000" />
+      <workItem from="1600097147751" duration="3643000" />
+      <workItem from="1600103361445" duration="7872000" />
+      <workItem from="1606440104818" duration="8000" />
+      <workItem from="1609879311096" duration="899000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="486" y="104" key="#SCSS" timestamp="1600109811045">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="486" y="104" key="#SCSS/1440.-493.768.1341/-480.-1055.1920.1055/0.25.1440.875@0.25.1440.875" timestamp="1600109811045" />
+    <state x="163" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600102374624">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="163" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.-493.768.1341/-480.-1055.1920.1055/0.25.1440.875@0.25.1440.875" timestamp="1600102374624" />
+    <state x="805" y="295" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600128405292">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="805" y="295" key="#com.intellij.fileTypes.FileTypeChooser/1440.-493.768.1341/-480.-1055.1920.1055/0.25.1440.875@0.25.1440.875" timestamp="1600128405292" />
+    <state x="451" y="277" width="494" height="322" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1600109911847">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="451" y="277" width="494" height="322" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1440.-493.768.1341/-480.-1055.1920.1055/0.25.1440.875@0.25.1440.875" timestamp="1600109911847" />
+    <state x="376" y="217" key="EditFileWatcherDialog" timestamp="1600127671551">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="376" y="217" key="EditFileWatcherDialog/1440.-493.768.1341/-480.-1055.1920.1055/0.25.1440.875@0.25.1440.875" timestamp="1600127671551" />
+    <state x="228" y="83" key="SettingsEditor" timestamp="1600131010631">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="228" y="83" key="SettingsEditor/1440.-493.768.1341/-480.-1055.1920.1055/0.25.1440.875@-480.-1055.1920.1055" timestamp="1600131010631" />
+    <state x="228" y="83" key="SettingsEditor/1440.-493.768.1341/-480.-1055.1920.1055/0.25.1440.875@0.25.1440.875" timestamp="1600130591046" />
+    <state x="524" y="325" key="cloudConfig.PluginsDialog" timestamp="1600097101724">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="524" y="325" key="cloudConfig.PluginsDialog/1440.-493.768.1341/-480.-1055.1920.1055/0.25.1440.875@0.25.1440.875" timestamp="1600097101724" />
+  </component>
+</project>
