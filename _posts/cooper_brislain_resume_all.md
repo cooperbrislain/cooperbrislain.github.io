@@ -1,19 +1,36 @@
 # COOPER BRISLAIN                 
-#### 707-853-3731   
+#### 707-9802340  
 #### CBRISLAIN@GMAIL.COM 
 #### LINKEDIN.COM/IN/COOPERBRISLAIN
-#### 861 Channing Circle, Benicia, CA 94510
+#### Reno, NV / Bay Area, CA
 #### Polymathic software engineer and visual artist seeking opportunity to contibute interdisciplinary talents to innovative projects in emerging fields, including augmented reality, virtual reality, novel user interface design, interactive media production, and live event visual production.
 
 TECHNICAL SKILLS
 ----------------
 
-PHP, MySQL, Javascript/JQuery, HTML5, SCSS, Git, Node.js, Unity, Flash, GLSL, Python, C/C#/C++, Regular Expressions, Arduino Development, Object-Oriented Programming, LAMP Stack, Scrum, Relational Databases, Content Management Systems, API Integration, Design, Photoshop, Illustrator, Photography, Video Production, Video Post-Production, 3D Graphics, New Media, Generative Art, Projection Mapping, Quartz Composer, Live Visuals, LEAP Motion, Kinect
+Javascript ES6, React, Node.js, PHP, MySQL, HTML5, SCSS, Git,
+Unity, Flash, GLSL, Python, C++, C#, C, Regular Expressions, 
+Docker, Embedded Development, Object-Oriented Programming, 
+LAMP Stack, MERN Stack, Scrum, Relational Databases, 
+Content Management Systems, APIs and Integrations, Automation, IoT,
+Design, Photoshop, Illustrator, Photography, Video Production, 
+Video Post-Production, 3D Graphics, New Media, Generative Art, 
+Projection Mapping, Quartz Composer, Live Visuals, LEAP Motion, 
+Kinect, Shell Scripting, UNIX/Linux, Database Migration
 
 KEY SKILLS
 ----------
 
-Excellent communicator, life-long learner, adaptable and creative problem solving skills, critical thinking, commitment to excellence and continually striving for growth, artistic vision, ability to solve time-sensitive real-world problems using limited available resources, ability to conceptualize complex systems, project potential future complications and constraints, and design for extensibility and scalability, UI insight derived from significant experience with using and implementing novel input devices and user interfaces for live performances
+Excellent communicator, 
+life-long learner, 
+adaptable and creative problem solving skills, 
+critical thinking, 
+commitment to excellence and continually striving for growth, 
+artistic vision, 
+ability to solve time-sensitive real-world problems using limited available resources, 
+ability to conceptualize complex systems, project potential future complications and constraints, 
+and design for extensibility and scalability, 
+UI insight derived from significant experience with using and implementing novel input devices and user interfaces for live performances
 
 EXPERIENCE
 ----------
@@ -103,9 +120,34 @@ EXPERIENCE
 
 #### MAC TECHNICAL SUPPORT & ASSISTANT WEBMASTER, INTERX TECHNOLOGIES; NAPA, CA - 1998-1999
 
+SIDE PROJECTS
+-------------
+
+
+#### INTELLIGENT MAPPABLE LED FIXTURES FOR LIVE EVENTS ####
+    - Electronics/Soldering
+    - LED Programming
+    - Embedded development
+    - C++, MQTT, ArtNet
+
+#### IOT LED CONTROLLER ####
+    - C++, MQTT, ArtNet
+
+#### AUTOMATED IOT HYDROPONICS SYSTEM ####
+    - C++, Raspberry Pi, MQTT, Docker, Node-Red, Node.js, Javascript
+
+#### CODER - CORE MUD - 1996-2001 ####
+    - C, LPC, Linux shell
+
 EDUCATION
 ---------
 
 #### University of California, Santa Cruz - B.A. Film & Digital Media Production - 2008 
 CS Coursework Includes: Programming Fundamentals, Abstract Data Structures, Algorithms, Discrete Math, Differential Equations, Linear Algebra, Assembly Language Programming, etc.
 FDM Production Coursework Includes: Film Production Studio, Darkroom Photography, Social Documentation, Documentary Production, Screenwriting, Editing, Digital Media Production, Sound Production for Film, Experimental Film Production, Film & Digital Media Theory Theory 
+
+#### UC Berkeley Extension - React Coding Boot Camp ####
+8 
+#### Cisco Certified Network Associate (CCNA) - 2000
+
+#### The Internet - Self-taught coder/hacker since age 12 - 1993 (When the Internet was good.)
