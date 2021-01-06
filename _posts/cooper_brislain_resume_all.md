@@ -145,21 +145,20 @@ EXPERIENCE
 SIDE PROJECTS
 -------------
 
-
 #### INTELLIGENT MAPPABLE LED FIXTURES FOR LIVE EVENTS ####
-    - Electronics/Soldering
-    - LED Programming
-    - Embedded development
-    - C++, MQTT, ArtNet
+* Electronics/Soldering
+* LED Programming
+* Embedded development
+* C++, MQTT, ArtNet
 
 #### IOT LED CONTROLLER ####
-    - C++, MQTT, ArtNet
+* C++, MQTT, ArtNet
 
 #### AUTOMATED IOT HYDROPONICS SYSTEM ####
-    - C++, Raspberry Pi, MQTT, Docker, Node-Red, Node.js, Javascript
+* C++, Raspberry Pi, MQTT, Docker, Node-Red, Node.js, Javascript
 
 #### CODER - CORE MUD - 1996-2001 ####
-    - C, LPC, Linux shell
+* C, LPC, Linux shell
 
 EDUCATION
 ---------
