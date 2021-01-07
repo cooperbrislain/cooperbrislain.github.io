@@ -1,23 +1,57 @@
-# COOPER BRISLAIN                 
-#### 707-9802340  
-#### CBRISLAIN@GMAIL.COM 
-#### COOPERBRISLAIN.COM
-#### LINKEDIN.COM/IN/COOPERBRISLAIN
-#### Reno, NV / Bay Area, CA
-#### Polymathic software engineer and creative technologist seeking opportunity to contibute interdisciplinary talents to innovative projects in emerging fields, including augmented reality, virtual reality, novel user interface design, interactive media production, and live event visual production.
+COOPER BRISLAIN                 
+---------------
+
+[cbrislain@gmail.com](mailto:cbrislain@gmail.com)  
+[cooperbrislain.com](https://cooperbrislain.com)  
+[linkedin.com/in/cooperbrislain](https://linkedin.com/in/cooperbrislain)
+[cooperbrislain.github.io](https://cooperbrislain.github.io) 
+
+### Software Engineer, Creative Technologist
+
+> Self-taught and diversely experienced full-stack software 
+> engineer and creative technologist 
+> seeking opportunity to contribute interdisciplinary talents 
+> to innovative projects in emerging fields, including 
+> augmented reality, virtual reality, novel user interface 
+> design, interactive media production, and live event visual 
+> production.
 
 TECHNICAL SKILLS
 ----------------
 
-Javascript ES6, React, Node.js, PHP, MySQL, HTML5, SCSS, Git,
-Unity, Flash, GLSL, Python, C++, C#, C, Regular Expressions, 
-Docker, Embedded Development, Object-Oriented Programming, 
-LAMP Stack, MERN Stack, Scrum, Relational Databases, 
-Content Management Systems, APIs and Integrations, Automation, IoT,
-Design, Photoshop, Illustrator, Photography, Video Production, 
-Video Post-Production, 3D Graphics, New Media, Generative Art, 
-Projection Mapping, Quartz Composer, Live Visuals, LEAP Motion, 
-Kinect, Shell Scripting, UNIX/Linux, Database Migration
+Javascript ES6, 
+React, 
+Node.js, 
+PHP,
+MySQL,
+HTML5,
+CSS,
+Docker,
+Git,
+Unity,
+Flash,
+GLSL,
+C++,
+C#,
+LAMP,
+MERN,
+Relational Databases,
+Database Migration,
+Object-Oriented Programming,
+Embedded Development,
+IoT,
+Regular Expressions,
+Scrum,
+Content Management Systems,
+APIs and Integrations,
+Automation,
+Photography, Video Production, 3D Graphics, Generative Art, Design,
+Photoshop, Illustrator,
+Projection/LED Mapping, Quartz Composer, 
+Audio-Reactive Visualizations, Real-Time Visualization, 
+LEAP Motion, Kinect, 
+Shell Scripting, UNIX/Linux, 
+Laputan Machine
 
 KEY SKILLS
 ----------
@@ -37,19 +71,19 @@ EXPERIENCE
 ----------
 
 #### WEB DEVELOPER, FREELANCE; RENO, NV
-* PHP/MySQL/Wordpress
-* Worked mostly on Wordpress sites.
+* PHP/MySQL/Wordpress/Javascript
+* Worked mostly on Wordpress sites
 * Migrations
-* Created "Vandelay", a tool for migrating arbitrarily structured
-    external data into Wordpress. 
+* Created "Vandelay", a migration tool that exports data 
+  from arbitrary schemas and imports it into Wordpress
 
 #### LABORER, EVENT MASTERS; TRUCKEE, CA
-* Set up and strike for events.
-* Loading and unloading box trucks with equipment.
-* Driving box trucks and delivery vans to remote event locations.
-* Lifting over 50 pounds all day.
-* Repairing and cleaning equipment.
-* Supervising colleagues on-site.
+* Set up and strike for events
+* Loading and unloading box trucks with equipment
+* Driving box trucks and delivery vans to remote event locations
+* Lifting over 50 pounds all day
+* Repairing and cleaning equipment
+* Supervising colleagues on-site
 
 #### LIVE VISUAL ARTIST; SAN FRANCISCO BAY AREA ####
 * Unity/GLSL/Quartz Composer/Flash/Javascript/OpenGL/Processing
@@ -64,11 +98,11 @@ EXPERIENCE
 * Performed live visual performances to accompany artists including Datsik, Vibesquad, Mary-Anne Hobbes, Minnesota, G-Jones and more; as well as production companies including Camp Question Mark, Raindance Presents, Opulent Temple, MalLabel Music, Wormhole, Organic Events and Primal Productions
 
 #### EVENT CREW, VARIOUS; SAN FRANCISCO BAY AREA ####
-* Set up and strike for live events.
-* Loaded/Unloaded box trucks. 
-* Set up lighting fixtures and A/V equipment, observing safety precautions.
-* Built set pieces.
-* Coiled cables over/under.
+* Set up and strike for live events
+* Loaded/Unloaded box trucks
+* Set up lighting fixtures and A/V equipment, observing safety precautions
+* Assembled set pieces and deco
+* Coiled cables over/under
 
 #### PROGRAMMER/CONSULTANT, VISIONS IN EDUCATION; CARMICHAEL, CA - JULY 2015-AUGUST 2016
 * HTML5/SCSS/Javascript/Angular/PHP/Python/MySQL/Drupal/Wordpress/Illustrator/InDesign
@@ -110,12 +144,14 @@ EXPERIENCE
 
 #### PROGRAMMER L2, JUPITER HOSTING/NAVISITE; CAMPBELL, CA - 2008 
 * PHP/MySQL/Flash/HTML/CSS/Joomla/Drupal
-* Created custom modules and core modifications for highly-customized content management system for high-volume web-hosting clients
-
+* Created custom modules and core modifications for in-house content management system 
+  supporting high-volume websites with video content.
+  
 #### VIDEOGRAPHER, LABORLAND; SANTA CRUZ, CA/LOS ANGELES, CA - 2005-2006
 * Videography/Photography/Video Editing
-* Traveled to San Francisco, Los Angeles, Mexicali, and throughout California to film documentary about the post-industrial economy in California
-* Produced fundraising vignette for Clínica Martín-Baró, a free clinic operated by UCSF students for undocumented immigrants
+* Traveled regularly to film interviews, events, and scenes for documentary film.
+* Produced promotional vignette for a fundraiser supporting a free clinic operated by UCSF residents.
+* Filmed and informed all technical aspects of production.
 
 #### PROGRAMMER, EVANS DATA; SANTA CRUZ, CA - 2007
 * HTML/CSS/PHP/MySQL
@@ -177,7 +213,7 @@ SIDE PROJECTS
   Arduino, MQTT, Docker
 
 #### CITIZEN, MENTOR - CORE MUD - 1996-2001 (COLLABORATION) ####
-* C, LPC, Regular Expressions, Telnet/FTP, UNIX/Linux Shell
+* C, LPC, RegEx, Telnet/FTP, UNIX/Linux Shell
 * Built areas, items, quests, and new game mechanics for 
   text-based sci-fi role-playing game.
 * Assisted in the debugging/modernization for a major version update.
@@ -185,7 +221,6 @@ SIDE PROJECTS
 * Helped new coders learn, pointed them to the right resources 
   and answered questions. 
 * Created an Auction Machine.
-* Learned RegEx like the back of my hand 
 
 EDUCATION
 ---------
