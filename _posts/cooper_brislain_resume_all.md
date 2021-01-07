@@ -1,6 +1,7 @@
 # COOPER BRISLAIN                 
 #### 707-9802340  
 #### CBRISLAIN@GMAIL.COM 
+#### COOPERBRISLAIN.COM
 #### LINKEDIN.COM/IN/COOPERBRISLAIN
 #### Reno, NV / Bay Area, CA
 #### Polymathic software engineer and creative technologist seeking opportunity to contibute interdisciplinary talents to innovative projects in emerging fields, including augmented reality, virtual reality, novel user interface design, interactive media production, and live event visual production.
@@ -94,7 +95,7 @@ EXPERIENCE
 * HTML5/CSS3/Javascript/JQuery/PHP/MySQL/Joomla/Wordpress/Photoshop
 * Developed and managed front/back-end solutions including database engine, APIs, data validation, and data-routing deployed across 500+ websites and affiliates
          
-#### FLASH DEVELOPER, DEFENSE LANGUAGE INSTITUTE; MONTEREY, CA - 2008
+#### FLASH DEVELOPER, INSIGNIA TECHNOLOGY SERVICES; MONTEREY, CA - 2008
 * Flash/C#/.NET/PHP
 * Developed Language Survival Kit online courses for military personnel being deployed overseas
 
@@ -121,44 +122,70 @@ EXPERIENCE
 * Designed and implemented website refresh
 * Automated mailing list management and delivery
 
-#### CLASSROOM SUPPORT/HELP DESK, UCSC MEDIA SERVICES; SANTA CRUZ, CA - 2006
+#### CLASSROOM TECHNICAL SUPPORT, UCSC MEDIA SERVICES; SANTA CRUZ, CA - 2006
 * Troubleshot and resolved technical issues involving classroom media equipment at the university
 * Advised faculty and students inquiring about equipment needs for media projects
 * Performed maintenance on classroom projectors, media-panels, and sound equipmen
 * Assisted with set-up and tear-down of campus events requiring media resources
 
-#### ASSISTANT STILL PHOTOGRAPHER/ELECTRONIC PRESS KIT, CARBABES; LOS GATOS, CA - 2005
-* Photography/Videography
-* Shot production stills for feature film.
-* Shot behind-the-scenes video for DVD special features and electronic press kit
+#### ASSISTANT STILL PHOTOGRAPHER/EPK, CARBABES; LOS GATOS, CA - 2005
+* Photography, Videography
+* Captured production stills for feature film
+* Shot behind-the-scenes footage for DVD special features and electronic press kit
+                 
+#### ASSOCIATE, HOLLISTER CO; CONCORD, CA - 2004 
+* Greeted people when they entered
+* Deployed the specified units of fragrance to each display garment
+  several times a day
+* Learned how to fold shirts
 
 #### WEBMASTER & PHOTOGRAPHER, ROSE IMPORT MOTORS; VALLEJO, CA - 2001
+* Photographed vehicles for website listings
+* Posted and updated listings on website and with third-parties
+* Got to drive some really, really nice cars.
 
 #### EVENT STAFF, PLAN-IT INTERACTIVE; CONCORD, CA - 2000
-
+* Loaded/Unloaded box trucks for tech parties
+* Drove full box trucks to and from the site
+* Set Up/Strike
+* Monitor and ensure participants are using equipment safely
+ 
 #### VIDEO STORE CLERK, PETERS VIDEO; NAPA, CA - 1999
+* Told everybody to see Clerks. 
 
 #### VIDEO STORE CLERK, HOLLYWOOD VIDEO; NAPA, CA - 1999
+* Told everybody to see The Matrix.                       
 
-#### MAC TECHNICAL SUPPORT & ASSISTANT WEBMASTER, INTERX TECHNOLOGIES; NAPA, CA - 1998-1999
+#### TECHNICAL SUPPORT & ASSISTANT WEBMASTER, INTERX TECHNOLOGIES; NAPA, CA - 1998-1999
+* Provided technical support to users at a local ISP
+* Assisted webmaster in regular web maintenance activites,
+  including editing, debugging, and preparing assets.
+* Gave introductory tutorials for first-time Internet users. 
 
 SIDE PROJECTS
 -------------
 
-#### INTELLIGENT MAPPABLE LED FIXTURES FOR LIVE EVENTS ####
-* Electronics/Soldering
-* LED Programming
-* Embedded development
-* C++, MQTT, ArtNet
+#### INTELLIGENT MAPPABLE LED FIXTURES FOR LIVE EVENTS (COLLABORATION) ####
+* Electronics/Soldering, Embedded Development, LEDs
+* C++, MQTT, ArtNet, Iterative Development
 
 #### IOT LED CONTROLLER ####
 * C++, MQTT, ArtNet
 
-#### AUTOMATED IOT HYDROPONICS SYSTEM ####
-* C++, Raspberry Pi, MQTT, Docker, Node-Red, Node.js, Javascript
+#### AUTOMATED IOT HYDROPONICS SYSTEM (COLLABORATION) ####
+* C++, Node-Red, Node.js, Javascript, Raspberry Pi, 
+  Arduino, MQTT, Docker
 
-#### CODER - CORE MUD - 1996-2001 ####
-* C, LPC, Linux shell
+#### CITIZEN, MENTOR - CORE MUD - 1996-2001 (COLLABORATION) ####
+* C, LPC, Regular Expressions, Telnet/FTP, UNIX/Linux Shell
+* Built areas, items, quests, and new game mechanics for 
+  text-based sci-fi role-playing game.
+* Assisted in the debugging/modernization for a major version update.
+* Helped enforce rules, moderate player conduct, use the ban hammer, etc.
+* Helped new coders learn, pointed them to the right resources 
+  and answered questions. 
+* Created an Auction Machine.
+* Learned RegEx like the back of my hand 
 
 EDUCATION
 ---------
