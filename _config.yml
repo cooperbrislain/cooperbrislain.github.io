@@ -1,15 +1,18 @@
 title: Cooper Brislain
 email: cbrislain@gmail.com
+username: cbrislain
+user_description: Software Engineer & Creative Technologist
+user_title: King
 description: >-
   Welcome
 baseurl: ""
-url: "http://cooperbrislain.github.com"
+url: "https://cooperbrislain.github.io"
 twitter_username: cooperbrislain
 github_username:  cooperbrislain
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 

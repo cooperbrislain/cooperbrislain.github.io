@@ -16,43 +16,42 @@ COOPER BRISLAIN
 > design, interactive media production, and live event visual 
 > production.
 
-TECHNICAL SKILLS
-----------------
 
-Javascript ES6, C++,
-MERN, React, Node.js,
-LAMP, PHP, MySQL,
-HTML5, CSS,
-Docker, Git, 
-Unity, C#,
-Flash, GLSL,
-Relational Databases, Database Migration,
-Object-Oriented Programming,
-Embedded Development, IoT,
-Scrum, Agile
-Content Management Systems,
-APIs and Integrations, Automation,
-3D Graphics, Generative Art, Quartz Composer,
-Design, Photography, Video Production,
-Audio-Reactive Visualizations, Real-Time Visualization, 
-LEAP Motion, Kinect, APC40, Lemur, Projection/LED Mapping, 
-Shell Scripting, UNIX/Linux, RegEx,
-Photoshop, Illustrator, JetBrains, Visual Studio Code,
-Laputan Machine
+SKILLS
+------
+### TECHNICAL
 
-KEY SKILLS
-----------
+`Javascript ES6`, `C++`,
+`MERN`, `React`, `Node.js`,
+`LAMP`,` PHP`,`MySQL`,
+`HTML5`,`CSS`,
+`Docker`,`Git`,
+`Unity`,`C#`,`Flash`,`GLSL`,
+`Relational Databases`,`Database Migration`,
+`Object-Oriented Programming`,`Embedded Programming`,`IoT`,
+`Scrum`,`Agile`,`Content Management Systems`,
+`APIs and Integrations`,`Automation`,
+`3D Graphics`,`Generative Art`,`Quartz Composer`,
+`Design`,`Photography`,`Video Production`,
+`Audio-Reactive Visualizations`,`Real-Time Visualization`,
+`LEAP Motion`,`Kinect`,`APC40`,`Lemur`,`Projection/LED Mapping`,
+`Shell Scripting`,`UNIX/Linux`,`RegEx`,
+`Photoshop`,`Illustrator`,`JetBrains`,`Visual Studio Code`,
+`Laputan Machine`
 
-Excellent communicator, 
-life-long learner, 
-adaptable and creative problem solving skills, 
-critical thinking, 
-commitment to excellence and continually striving for growth, 
-artistic vision, 
-ability to solve time-sensitive real-world problems using limited available resources, 
-ability to conceptualize complex systems, project potential future complications and constraints, 
-and design for extensibility and scalability, 
-UI insight derived from significant experience with using and implementing novel input devices and user interfaces for live performances
+### KEY SKILLS
+
+* Excellent Communicator, 
+* Independent Learner, 
+* Critical Thinker, 
+* Passionate About Technology and Innovation
+
+### SPECIALTIES
+
+`Content Management Systems`,
+`Tools`,
+`LEDs`,
+`Dynamic/Generative Graphics`,
 
 EXPERIENCE
 ----------
@@ -220,4 +219,13 @@ FDM Production Coursework Includes: Film Production Studio, Darkroom Photography
 
 #### Cisco Certified Network Associate (CCNA) - 2000
 
+#### Napa Valley College - Computer Science (Transferred to UC)
+
 #### The Internet - Self-taught coder/hacker since age 12 - 1993 (When the Internet was good.)
+
+ORGANIZATIONS
+-------------
+
+#### Technical Director - Student Cable Television, UCSC
+
+#### Student Trustee - Napa Valley College
