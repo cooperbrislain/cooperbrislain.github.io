@@ -2,65 +2,41 @@
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-midnight
 minimal_mistakes_skin: neon # "dark", "neon", "plum"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-
+source            : .
+destination       : ./_site
 
 # Site Settings
-title: Cooper Brislain
-source: .
-destination: ./_site
-username: cbrislain
-email: cbrislain@gmail.com
-user_description:
-user_title: Software Engineer
-description: Welcome
-baseurl: ""
+title             : Cooper Brislain
+subtitle          : Software Engineer, Creative Technologist
+title_separator   : "-"
+
+name              : "Cooper Brislain"
+username          : cbrislaindsd
+email             : cbrislain@gmail.com
+user_description  : Grew up alongside the web, learning each new technology \
+  and development along the way, until it became too much and I  started \
+  taking psychic damage.
+user_title        : Software Engineer?
+description       : Hello, World
+
+baseurl           : ""
 url               : "https://cooperbrislain.github.io"
+repository        : cooperbrislain/cooperbrislain.github.io
+
 twitter_username  : cooperbrislain
 github_username   : cooperbrislain
 locale            : "en-US"
-title_separator   : "-"
-subtitle          : Software Engineer, Creative Technologist
-name              : "Cooper Brislain"
-repository        : cooperbrislain/cooperbrislain.github.io
+
 teaser            : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo              : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title    : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs       : false # true, false (default)
 words_per_minute  : 200
-comments:
-  provider               : # false (default), "staticman", "staticman_v2"
-#  staticman:
-#    branch               : # "master"
-#    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
-#  reCaptcha:
-#    siteKey                :
-#    secret                 :
-atom_feed:
-  path                   : # blank (default) uses feed.xml
-search                   : true
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
-#google:
-#  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
-#  instant_search         : # false (default), true
-# SEO Related
-#google_site_verification :
-
-# Social Sharing
-twitter:
-  username               : cooperbrislain
-#og_image                 : # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-#social:
-#  type                   : # Person or Organization (defaults to Person)
-#  name                   : # If the user or organization name differs from the site's name
-#  links: # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -69,45 +45,7 @@ analytics:
     tracking_id : UA-121066483-2
     anonymize_ip: # true, false (default)
 
-# Site Author
-author:
-  name    : "Cooper Brislain"
-  avatar  : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio     : "I was born at a very young age."
-  location: "Reno, NV"
-  email   : cooper@cooperbrislain.com
-  links:
-    - label: "Projects"
-      icon: "fas fa-fw fa-envelope-square"
-      url:  "/projects"
-    - label: "Blog"
-      icon: "fas fa-fw fa-link"
-      url: "/blog"
-    - label: "Friends"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/cooperbrislain"
-    #    - label: "Facebook"
-    #      icon: "fab fa-fw fa-facebook-square"
-    #      url: "https://facebook.com/cooperbrislain"
-    - label: "Ideas"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/cooperbrislain"
-    - label: "Art"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/cooperbrislain"
-
-# Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/cooperbrislain
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: https://www.github.com/cooperbrislain
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: https://instagram.com/cooperbrislain
+author    : "Cooper Brislain"
 
 # Reading Files
 include:
@@ -171,8 +109,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
 timezone: US/Los_Angeles
 
 # mimic GitHub Pages with --safe
@@ -210,26 +148,3 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
-
-# HTML Compression
-# - https://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
-
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
