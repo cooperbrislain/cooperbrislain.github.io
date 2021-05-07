@@ -2,3 +2,18 @@
 ---
 
 @import "jekyll-theme-modernist";
+
+body main {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    width: 80%;
+    .sidebar {
+        flex-basis: 20%;
+        padding: 10px;
+        section {
+            border: 0;
+        }
+    }
+}
+
