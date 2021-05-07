@@ -3,25 +3,16 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
     {% seo %}
-
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 </head>
 <body>
 <main>
-    <div class="wrapper sidebar">
-        <section>
-            SideBar
-        </section>
-    </div>
-
     <div class="wrapper content">
         <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless
                 %}>
@@ -29,10 +20,10 @@
             {% if site.description or site.github.project_tagline %}
             <p>{{ site.description | default: site.github.project_tagline }}</p>
             {% endif %}
-            <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{
-                                                                                                         github_name
-                                                                                                         }}</small></a>
-            </p>
+            <p class="view"><a href="{{ site.github.owner_url }}">
+                View on GitHub
+                <small>{{ github_name }}</small>
+            </a></p>
             <ul>
                 {% if site.show_downloads %}
                 <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
@@ -41,11 +32,17 @@
                 <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
             </ul>
         </header>
-        <section>
+        <main>
+            <div class="sidebar">
+                {% include sidebar.html %}
+            </div>
+            <div>
+                <section>
+                    {{ content }}
+                </section>
+            </div>
+        </main>
 
-            {{ content }}
-
-        </section>
     </div>
 </main>
 <footer>

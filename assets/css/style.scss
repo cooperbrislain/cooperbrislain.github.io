@@ -6,13 +6,15 @@
 body main {
     display: flex;
     flex-direction: row;
-    margin: auto;
-    width: 80%;
     .sidebar {
         flex-basis: 20%;
-        padding: 10px;
+        background-color: rgba(141, 138, 165, 0.64);
         section {
-            border: 0;
+            text-align: left;
+            ul {
+                list-style-type: none;
+                padding: 0;
+            }
         }
     }
 }
