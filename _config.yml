@@ -1,9 +1,9 @@
 # cooperbrislain.github.io
+# cooperbrislain.com
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
-minimal_mistakes_skin: neon # "dark", "neon", "plum"
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -16,7 +16,7 @@ subtitle          : Software Engineer, Creative Technologist
 title_separator   : "-"
 
 name              : "Cooper Brislain"
-username          : cbrislaindsd
+username          : cooperbrislain
 email             : cbrislain@gmail.com
 user_description  : Grew up alongside the web, learning each new technology \
   and development along the way, until it became too much and I  started \
@@ -25,7 +25,7 @@ user_title        : Software Engineer?
 description       : Hello, World
 
 baseurl           : ""
-url               : "https://cooperbrislain.github.io"
+url               : "https://cooperbrislain.com"
 repository        : cooperbrislain/cooperbrislain.github.io
 
 twitter_username  : cooperbrislain
