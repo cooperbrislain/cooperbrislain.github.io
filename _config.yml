@@ -12,17 +12,12 @@ destination       : ./_site
 
 # Site Settings
 title             : Cooper Brislain
-subtitle          : Software Engineer, Creative Technologist
 title_separator   : "-"
 
 name              : "Cooper Brislain"
 username          : cooperbrislain
 email             : cbrislain@gmail.com
-user_description  : Grew up alongside the web, learning each new technology \
-  and development along the way, until it became too much and I  started \
-  taking psychic damage.
-user_title        : Software Engineer?
-description       : Full-Stack Developer, Creative Developer, Visual Artist
+description       : Full-Stack Software Engineer, Creative Developer, Visual Artist
 
 baseurl           : ""
 url               : "https://cooperbrislain.com"
@@ -128,9 +123,9 @@ whitelist:
 #  Path (examples)
 #  - Archive page should exist at path when using Liquid method or you can
 #    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path>/my-awesome-category/index.html ~> path: /
+#  - <base_path>/tags/my-awesome-tag/index.md ~> path: /tags/
+#  - <base_path>/categories/my-awesome-category/index.md ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.md ~> path: /
 category_archive:
   type: liquid
   path: /categories/
@@ -139,7 +134,155 @@ tag_archive:
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
-#   enabled:
+#   enabled:# cooperbrislain.com
+#
+## Build settings
+#markdown: kramdown
+#theme: jekyll-theme-modernist
+#plugins:
+#  - jekyll-feed
+#  - jekyll-include-cache
+#source            : .
+#destination       : ./_site
+#
+## Site Settings
+#title             : Cooper Brislain
+#subtitle          : Software Engineer, Creative Technologist
+#title_separator   : "-"
+#
+#name              : "Cooper Brislain"
+#username          : cooperbrislain
+#email             : cbrislain@gmail.com
+#user_description  : Grew up alongside the web, learning each new technology \
+#  and development along the way, until it became too much and I  started \
+#  taking psychic damage.
+#user_title        : Software Engineer?
+#description       : Full-Stack Developer, Creative Developer, Visual Artist
+#
+#baseurl           : ""
+#url               : "https://cooperbrislain.com"
+#repository        : cooperbrislain/cooperbrislain.github.io
+#
+#twitter_username  : cooperbrislain
+#github_username   : cooperbrislain
+#locale            : "en-US"
+#
+#teaser            : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+#logo              : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+#masthead_title    : # overrides the website title displayed in the masthead, use " " for no title
+#breadcrumbs       : false # true, false (default)
+#words_per_minute  : 200
+#
+## Analytics
+#analytics:
+#  provider      : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
+#  google:
+#    tracking_id : UA-121066483-2
+#    anonymize_ip: # true, false (default)
+#
+#author    : "Cooper Brislain"
+#
+## Reading Files
+#include:
+#  - .htaccess
+#  - _pages
+#exclude:
+#  - "*.sublime-project"
+#  - "*.sublime-workspace"
+#  - .idea
+#  - vendor
+#  - .asset-cache
+#  - .bundle
+#  - .jekyll-assets-cache
+#  - .sass-cache
+#  - assets/js/plugins
+#  - assets/js/_main.js
+#  - assets/js/vendor
+#  - Capfile
+#  - CHANGELOG
+#  - config
+#  - Gemfile
+#  - Gruntfile.js
+#  - gulpfile.js
+#  - LICENSE
+#  - log
+#  - node_modules
+#  - package.json
+#  - package-lock.json
+#  - Rakefile
+#  - README
+#  - tmp
+#  - /docs # ignore Minimal Mistakes /docs
+#  - /test # ignore Minimal Mistakes /test
+#keep_files:
+#  - .git
+#  - .svn
+#encoding: "utf-8"
+#markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+#
+## Conversion
+#highlighter: rouge
+#lsi: false
+#excerpt_separator: "\n\n"
+#incremental: false
+#
+## Markdown Processing
+#kramdown:
+#  input: GFM
+#  hard_wrap: false
+#  auto_ids: true
+#  footnote_nr: 1
+#  entity_output: as_char
+#  toc_levels: 1..6
+#  smart_quotes: lsquo,rsquo,ldquo,rdquo
+#  enable_coderay: false
+#
+## Sass/SCSS
+#sass:
+#  sass_dir: _sass
+#  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+#
+## Outputting
+#permalink: /:categories/:title/
+##paginate: 5 # amount of posts to show
+##paginate_path: /page:num/
+#timezone: US/Los_Angeles
+#
+## mimic GitHub Pages with --safe
+#whitelist:
+#  - jekyll-paginate
+#  - jekyll-sitemap
+#  - jekyll-gist
+#  - jekyll-feed
+#  - jekyll-include-cache
+#
+## Archives
+##  Type
+##  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+##  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+##  Path (examples)
+##  - Archive page should exist at path when using Liquid method or you can
+##    expect broken links (especially with breadcrumbs enabled)
+##  - <base_path>/tags/my-awesome-tag/index.md ~> path: /tags/
+##  - <base_path>/categories/my-awesome-category/index.md ~> path: /categories/
+##  - <base_path>/my-awesome-category/index.md ~> path: /
+#category_archive:
+#  type: liquid
+#  path: /categories/
+#tag_archive:
+#  type: liquid
+#  path: /tags/
+## https://github.com/jekyll/jekyll-archives
+## jekyll-archives:
+##   enabled:
+##     - categories
+##     - tags
+##   layouts:
+##     category: archive-taxonomy
+##     tag: archive-taxonomy
+##   permalinks:
+##     category: /categories/:name/
+##     tag: /tags/:name/
 #     - categories
 #     - tags
 #   layouts:
