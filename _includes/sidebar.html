@@ -1,9 +1,15 @@
-<section>
-    {% include nav.html %}
-</section>
-<section>
-    {% include posts_list.html %}
-</section>
-<section>
-    {% include repos_list.html %}
-</section>
+{% if include.side == "left" %}
+    <section>
+        {% include links.html %}
+    </section>
+    <section>
+        {% include posts_list.html %}
+    </section>
+    <section>
+        {% include projects_list.html %}
+    </section>
+{% else %}
+    <section>
+        {% include repos_list.html %}
+    </section>
+{% endif %}

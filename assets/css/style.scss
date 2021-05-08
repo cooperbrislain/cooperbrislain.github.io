@@ -3,18 +3,61 @@
 
 @import "jekyll-theme-modernist";
 
-body main {
-    display: flex;
-    flex-direction: row;
-    .sidebar {
-        flex-basis: 20%;
-        background-color: rgba(141, 138, 165, 0.64);
-        section {
-            text-align: left;
-            ul {
-                list-style-type: none;
+body {
+    .wrapper {
+        width: 75%;
+    }
+
+    main {
+        display: flex;
+        flex-direction: row;
+
+        .sidebar {
+            flex-basis: 20%;
+            background-color: rgb(124, 177, 193);
+
+            section {
+                display: flex;
+                flex-direction: row;
+                text-align: left;
+                margin: 0;
                 padding: 0;
+                h4 {
+                    width: 30px;
+                    height: 30px;
+                    transform-origin: top left;
+                    transform: rotate(-90deg);
+                    color: steelblue;
+                    span {
+                        position: relative;
+                        left: -30px;
+                        float: right;
+                        border: 1px solid #fff;
+                        border-top: 0;
+                        border-right: 0;
+                        padding: 0px 15px 2px 5px;
+                        background-color: steelblue;
+                        color: white;
+                        border-bottom-left-radius: 5px;
+                    }
+                }
+
+                ul {
+                    padding: 10px 0 0;
+                    list-style-type: none;
+                    font-size: 10px;
+                    color: white;
+                    li {
+                        a {
+                            color: white
+                        }
+                    }
+                }
             }
+        }
+
+        .content {
+            width: 100%;
         }
     }
 }

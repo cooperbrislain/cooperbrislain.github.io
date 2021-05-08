@@ -1,0 +1,8 @@
+<h4><span>Projects</span></h4>
+<ul>
+{% for project in site.data.projects %}
+    <li>
+        <a href="{{ project.url }}">{{ project.title | markdownify }}</a>
+    </li>
+{% endfor %}
+</ul>

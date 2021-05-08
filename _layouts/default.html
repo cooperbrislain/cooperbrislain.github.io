@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ site.lang | default: " en-US" }}">
+<html lang="en-us">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,12 +7,12 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <title>Cooper Brislain</title>
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 </head>
 <body>
-<main>
     <div class="wrapper content">
         <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless
                 %}>
@@ -34,17 +34,18 @@
         </header>
         <main>
             <div class="sidebar">
-                {% include sidebar.html %}
+                {% include sidebar.html side="left" %}
             </div>
-            <div>
+            <div class="content">
                 <section>
                     {{ content }}
                 </section>
             </div>
+            <div class="sidebar">
+                {% include sidebar.html side="right" %}
+            </div>
         </main>
-
     </div>
-</main>
 <footer>
     {% if site.github.is_project_page %}
     <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
