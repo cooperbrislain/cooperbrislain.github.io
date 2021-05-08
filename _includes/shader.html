@@ -2,10 +2,10 @@
 
 <script src="/assets/js/three.js"></script>
 <script id="vertexShader" type="x-shader/x-vertex">
-    {% include shaders/rainbow-test.vert %}
+    {% include shaders/{{ include.shader }}.vert %}
 </script>
 <script id="fragmentShader" type="x-shader/x-fragment">
-    {% include shaders/rainbow-test.frag %}
+    {% include shaders/{{ include.shader }}.frag %}
 </script>
 <script src="/assets/js/shader.js"></script>
 <script type="javascript">
