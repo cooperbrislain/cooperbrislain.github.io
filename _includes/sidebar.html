@@ -1,12 +1,14 @@
 {% if include.side == "left" %}
     <section>
-        {% include links.html %}
+        {% include links.html title="Links" links=site.data.links %}
     </section>
     <section>
-        {% include posts_list.html %}
+        {% assign posts_sorted = site.posts | sort: 'date' %}
+        {% assign posts_sorted = posts_sorted | reverse %}
+        {% include links.html title="Posts" links=posts_sorted %}
     </section>
     <section>
-        {% include projects_list.html %}
+        {% include links.html title="Projects" links=site.data.projects %}
     </section>
 {% else %}
     <section>
