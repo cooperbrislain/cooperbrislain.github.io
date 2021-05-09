@@ -1,21 +1,21 @@
 {% if include.side == "left" %}
-    <section>
+    <section class="posts">
         {% assign posts_sorted = site.posts | sort: 'date' %}
         {% assign posts_sorted = posts_sorted | reverse %}
         {% include links.html title="Posts" links=posts_sorted %}
     </section>
-    <section>
+    <section class="links">
         {% include links.html title="Links" links=site.data.links %}
     </section>
-    <section>
+    <section class="projects">
         {% include links.html title="Projects" links=site.data.projects %}
     </section>
 {% endif %}
 {% if include.side == "right" %}
-    <section>
+    <section class="social">
         {% include social.html socials=site.data.social %}
     </section>
-    <section>
+    <section class="repos">
         {% include repos_list.html %}
     </section>
 {% endif %}

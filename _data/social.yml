@@ -2,14 +2,17 @@
   url: "twitter.com/_username_"
   icon: twitter
   username: spaceboycoop
+  active: false
 - title: Github
   url: "github.com/_username_"
   icon: github
   username: spaceboycoop
+  active: true
 - title: LinkedIn
   url: "linkedin.com/in/_username_"
   icon: linkedin
   username: cooperbrislain
+  active: true
 - title: Instagram
   url: "www.instagram.com/_username_"
   icon: instagram
@@ -17,15 +20,19 @@
   url: "plus.google.com/_username_"
   icon: "google-plus"
   username: +cooperbrislain
+  active: false
 - title: Behance
   url: "www.behance.net/_username_"
   icon: behance
   username: cbrislain
+  active: true
 - title: Flickr
   url: "www.flickr.com/photos/_username_"
   icon: flickr
   username: spaceboycoop
+  active: false
 - title: Tumblr
   url: "_username_.tumblr.com"
   icon: tumblr
   username: spaceboycoop
+  active: false
