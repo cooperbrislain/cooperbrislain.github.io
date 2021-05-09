@@ -13,6 +13,9 @@
 {% endif %}
 {% if include.side == "right" %}
     <section>
+        {% include social.html socials=site.data.social %}
+    </section>
+    <section>
         {% include repos_list.html %}
     </section>
 {% endif %}
