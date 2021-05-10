@@ -10,6 +10,7 @@ $radius:     0;
 @import "jekyll-theme-modernist";
 
 body {
+    box-sizing: border-box;
     background-color: $background;
 
     .wrapper {
@@ -47,24 +48,13 @@ body {
             background-color: $background;
             color: $foreground;
 
-
-            &.left {
-                section h4 span {
-                    border-bottom-left-radius: $radius;
-                }
-            }
-            &.right {
-                section h4 span {
-                    border-bottom-right-radius: $radius;
-                }
-            }
-
             section {
                 display: flex;
                 flex-direction: row;
                 text-align: left;
                 margin: 0;
                 padding: 0;
+                min-height: 75px;
                 h4 {
                     width: 30px;
                     height: 30px;
@@ -72,6 +62,7 @@ body {
                     transform-origin: top left;
                     transform: rotate(-90deg);
                     color: $background;
+                    margin-bottom: 0;
                     span {
                         position: relative;
                         left: -30px;
@@ -85,7 +76,7 @@ body {
                 }
 
                 ul {
-                    padding: 10px 0 0;
+                    padding: 10px 0 0 $gap;
                     margin-bottom: $gap;
                     list-style-type: none;
                     font-size: 10px;
@@ -99,6 +90,53 @@ body {
                         }
                     }
                 }
+
+                &.social {
+                    min-height: auto;
+                    h4 {
+                        display: none;
+                    }
+                    ul {
+                        display: flex;
+                        flex-flow: row wrap;
+                        justify-content: space-around;
+                        width: 100%;
+                        padding: $gap*2;
+                        li {
+                            a {
+                                font-size: 24px;
+                                span {
+                                    display: none;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            &.left {
+                section h4 span {
+                    border-bottom-left-radius: $radius;
+                }
+            }
+
+            &.right {
+                section {
+                    h4 {
+                        float: right;
+                        order: 2;
+                    }
+
+                    span {
+                        border-bottom-right-radius: $radius;
+                        border-top: $border solid $foreground;
+                        border-bottom: 0;
+                        bottom: -10px;
+                    }
+                }
+                ul {
+                    padding-left: $gap;
+                }
             }
         }
 
@@ -106,27 +144,6 @@ body {
             width: 100%;
             border-left: $border solid $foreground;
             border-right: $border solid $foreground;
-        }
-
-        section.social {
-            h4 {
-                display: none;
-            }
-            ul {
-                display: flex;
-                flex-flow: row wrap;
-                justify-content: space-around;
-                width: 100%;
-                padding: $gap*2;
-                li {
-                    a {
-                        font-size: 24px;
-                        span {
-                            display: none;
-                        }
-                    }
-                }
-            }
         }
     }
 }
