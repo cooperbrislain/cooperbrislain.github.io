@@ -4,11 +4,11 @@
         {% assign posts_sorted = posts_sorted | reverse %}
         {% include links.html title="Posts" links=posts_sorted %}
     </section>
-    <section class="links">
-        {% include links.html title="Links" links=site.data.links %}
-    </section>
     <section class="projects">
         {% include links.html title="Projects" links=site.data.projects %}
+    </section>
+    <section class="links">
+        {% include links.html title="Links" links=site.data.links %}
     </section>
 {% endif %}
 {% if include.side == "right" %}

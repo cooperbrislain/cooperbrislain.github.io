@@ -1,10 +1,4 @@
-- title: "PrintrBot Simple Metal Upgrade"
+- title: "PrintrBot Simple Metal"
   url: "/test/"
-#- title: What _is_ Code?
-#  url: "https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#codeissue"
-#  author: Paul Ford
-#- title: What _is_ 'What is Code'?
-#  url: "https://motherboard.vice.com/en_us/article/qkv9vd/what-is-what-is-code"
-#  author: Clinton Nguyen
-- title: Portfolio
-  url: "https://portfolio.cooperbrislain.com"
+- title: "Home Assistant"
+  url: "/hass/"

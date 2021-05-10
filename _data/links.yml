@@ -1,5 +1,6 @@
 - title: Resume
   url: "https://resume.cooperbrislain.com"
+  icon: "fas fa-external-link-alt"
 #- title: What _is_ Code?
 #  url: "https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#codeissue"
 #  author: Paul Ford
@@ -8,3 +9,4 @@
 #  author: Clinton Nguyen
 - title: Portfolio
   url: "https://portfolio.cooperbrislain.com"
+  icon: "fas fa-external-link-alt"

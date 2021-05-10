@@ -1,8 +1,13 @@
 <h4><span>{{ include.title }}</span></h4>
-<ul>
+<ul class="links">
     {% for link in include.links %}
         <li>
-            <a href="{{ link.url }}">{{ link.title | markdownify }}</a>
+            <a href="{{ link.url }}">
+                {% if link.icon %}
+                    <i class="{{ link.icon }}"></i>
+                {% endif %}
+                {{ link.title }}
+            </a>
         </li>
     {% endfor %}
 </ul>
