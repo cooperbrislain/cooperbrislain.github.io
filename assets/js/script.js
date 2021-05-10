@@ -10,4 +10,23 @@ $(() => {
             $(e.target).addClass('selected');
         }
     });
+
+    $(document).on('mouseover', 'h4 span', e => {
+        e.preventDefault();
+        const $this = $(e.target);
+        console.log($this);
+        if (!$this.get().over) {
+            const $popUp = $('<div class="popup">');
+            $popUp.text('test');
+            $popUp.appendTo($this);
+            $this.get().over = true;
+        }
+    });
+
+    $(document).on('mouseout', 'h4 span', e => {
+        e.preventDefault();
+        const $this = $(e.target);
+        $('.popup').remove();
+        if ($this.get().over) $this.get().over = false;
+    });
 });

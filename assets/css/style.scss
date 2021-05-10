@@ -71,6 +71,7 @@ main {
                 transform: rotate(-90deg);
                 color: $background;
                 margin-bottom: 0;
+
                 span {
                     position: relative;
                     left: -30px;
@@ -80,11 +81,21 @@ main {
                     border-right: 0;
                     padding: 0px 15px 2px 5px;
                     color: $foreground;
+
                     &.selected {
                         background-color: $foreground;
                         color: $background;
                         border: $border solid $background;
                     }
+                }
+
+                .popup {
+                    width: 25px;
+                    height: 25px;
+                    background-color: $foreground;
+                    color: $background;
+                    border: $border solid $background;
+                    transform: rotate(90deg);
                 }
             }
 
