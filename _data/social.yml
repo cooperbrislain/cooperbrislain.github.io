@@ -36,3 +36,7 @@
   icon: tumblr
   username: spaceboycoop
   active: false
+- title: Vimeo
+  url: "vimeo.com/_username_"
+  icon: vimeo-v
+  username: vektorselektor
