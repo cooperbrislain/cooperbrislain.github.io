@@ -41,7 +41,6 @@ analytics:
     anonymize_ip: # true, false (default)
 
 author    : "Cooper Brislain"
-
 # Reading Files
 include:
   - .htaccess
