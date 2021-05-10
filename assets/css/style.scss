@@ -1,18 +1,21 @@
 ---
 ---
 
-$background: black;
-$foreground: white;
-$gap:        3px;
-$border:     1px;
-$radius:     0;
-$base_font_size: 11px;
+$background:        black;
+$foreground:        white;
+$base_font_size:    12px;
+$font-main:         "Proxima Nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-mono:         monospace;
+$gap:               3px;
+$border:            1px;
+$radius:            0;
 
 @import "jekyll-theme-modernist";
 
 body {
     box-sizing: border-box;
     background-color: $background;
+    font-family: $font-main
 }
 
 .wrapper {
@@ -30,7 +33,9 @@ header {
     border-left: $border*2 solid $background;
 
     h1 {
+        font-family: $font-main;
         color: $background;
+        font-weight: 900;
     }
     p {
         color: $background;
@@ -62,6 +67,7 @@ main {
             margin: 0;
             padding: 0;
             min-height: 100px;
+            font-family: $font-main;
 
             h4 {
                 width: 30px;
@@ -99,12 +105,22 @@ main {
                 }
             }
 
+            h5 {
+                padding-top: 2*$gap;
+                color: $foreground;
+                margin-bottom: 0;
+                font-size: $base_font_size*1.15;
+                font-weight: 500;
+            }
+
             ul {
-                padding: 10px 0 0 $gap;
+                padding: $gap 0 0 $gap;
                 margin-bottom: $gap;
                 list-style-type: none;
+                font-family: $font-main;
                 font-size: $base_font_size;
                 color: $foreground;
+                max-width: 180px;
                 li {
                     a {
                         color: $foreground;
@@ -115,6 +131,19 @@ main {
                     svg {
                         font-size: $base_font_size*0.8;
                     }
+                }
+            }
+
+            .tags ul {
+                display: flex;
+                flex-flow: row wrap;
+                li {
+                    border: $border solid $foreground;
+                    border-bottom-width: $border*2;
+                    border-right-width: $border*2;
+                    padding: $gap $gap 0 $gap*2;
+                    margin: $gap;
+                    font-family: $font-mono;
                 }
             }
 
