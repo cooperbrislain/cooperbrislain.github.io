@@ -54,7 +54,9 @@ main {
     &>.content {
         background-color: $foreground;
         flex-basis: 75%;
+        min-height: 700px;
     }
+
     .sidebar {
         background-color: $background;
         color: $foreground;
@@ -132,6 +134,11 @@ main {
                         font-size: $base_font_size*0.8;
                     }
                 }
+            }
+
+            &.repos ul {
+                overflow-y: scroll;
+                height: 250px;
             }
 
             .tags ul {
