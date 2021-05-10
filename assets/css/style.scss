@@ -80,6 +80,11 @@ main {
                     border-right: 0;
                     padding: 0px 15px 2px 5px;
                     color: $foreground;
+                    &.selected {
+                        background-color: $foreground;
+                        color: $background;
+                        border: $border solid $background;
+                    }
                 }
             }
 
