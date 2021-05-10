@@ -186,9 +186,9 @@ main {
         }
 
         &.left {
+            border-right: $border solid $foreground;
             section {
                 padding-right: $gap*2;
-
                 h4 span {
                     border-bottom-left-radius: $radius;
                 }
@@ -196,13 +196,13 @@ main {
         }
 
         &.right {
+            border-left: $border solid $foreground;
             section {
                 padding-left: 0;
                 h4 {
                     float: right;
                     order: 2;
                 }
-
                 span {
                     border-bottom-right-radius: $radius;
                     border-top: $border solid $foreground;
@@ -232,6 +232,14 @@ footer {
         float: none;
         display: block;
         padding: $gap*3;
+    }
+}
+
+main.post {
+    background-color: $background;
+    .content.post {
+        border: $border*2 solid $foreground;
+        margin: $gap*5;
     }
 }
 
