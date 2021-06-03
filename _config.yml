@@ -44,7 +44,7 @@ author    : "Cooper Brislain"
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - pages
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -184,7 +184,7 @@ tag_archive:
 ## Reading Files
 #include:
 #  - .htaccess
-#  - _pages
+#  - pages
 #exclude:
 #  - "*.sublime-project"
 #  - "*.sublime-workspace"
