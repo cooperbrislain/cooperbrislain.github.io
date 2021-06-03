@@ -28,6 +28,8 @@ This page documents all the trials and tribulations of my foray into additive fa
 
 * Z-Axis Wobble
 * Clog StopGap
+* Heater Not Reaching Temp
+* 
 
 ## ToDo:
 
